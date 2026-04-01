@@ -24,7 +24,7 @@
 
 | Date | Day | Horizon (18:30-22:30) |
 |------|-----|-----------------------|
-| Apr 1 | Wed | Eskay |
+| Apr 1 | Wed | **NO DJ** |
 | Apr 2 | Thu | Nun |
 | Apr 3 | Fri | Eskay |
 | Apr 4 | Sat | Ize |
