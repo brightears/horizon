@@ -10,9 +10,9 @@
 
 | Day | DJ |
 |-----|----|
-| Mon | Pound |
+| Mon | Eskay |
 | Tue | Pound |
-| Wed | Eskay |
+| Wed | Pound |
 | Thu | Nun |
 | Fri | Eskay |
 | Sat | Ize |
@@ -29,30 +29,30 @@
 | Apr 3 | Fri | Eskay |
 | Apr 4 | Sat | Ize |
 | Apr 5 | Sun | Ize |
-| Apr 6 | Mon | Pound |
+| Apr 6 | Mon | **Eskay** |
 | Apr 7 | Tue | Pound |
-| Apr 8 | Wed | Eskay |
+| Apr 8 | Wed | **Pound** |
 | Apr 9 | Thu | Nun |
 | Apr 10 | Fri | Eskay |
 | Apr 11 | Sat | Ize |
 | Apr 12 | Sun | Ize |
-| Apr 13 | Mon | Pound |
+| Apr 13 | Mon | **Eskay** |
 | Apr 14 | Tue | Pound |
-| Apr 15 | Wed | Eskay |
+| Apr 15 | Wed | **Pound** |
 | Apr 16 | Thu | Nun |
 | Apr 17 | Fri | Eskay |
 | Apr 18 | Sat | Ize |
 | Apr 19 | Sun | Ize |
-| Apr 20 | Mon | Pound |
+| Apr 20 | Mon | **Eskay** |
 | Apr 21 | Tue | Pound |
-| Apr 22 | Wed | Eskay |
+| Apr 22 | Wed | **Pound** |
 | Apr 23 | Thu | Nun |
 | Apr 24 | Fri | Eskay |
 | Apr 25 | Sat | Ize |
 | Apr 26 | Sun | Ize |
-| Apr 27 | Mon | Pound |
+| Apr 27 | Mon | **Eskay** |
 | Apr 28 | Tue | Pound |
-| Apr 29 | Wed | Eskay |
+| Apr 29 | Wed | **Pound** |
 | Apr 30 | Thu | Nun |
 
 ---
