@@ -32,7 +32,7 @@
 | Apr 6 | Mon | **Eskay** |
 | Apr 7 | Tue | Pound |
 | Apr 8 | Wed | **Pound** |
-| Apr 9 | Thu | Nun |
+| Apr 9 | Thu | **Telemaggy** |
 | Apr 10 | Fri | Eskay |
 | Apr 11 | Sat | Ize |
 | Apr 12 | Sun | Ize |
