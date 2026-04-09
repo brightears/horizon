@@ -37,8 +37,8 @@
 | Apr 11 | Sat | Ize |
 | Apr 12 | Sun | Ize |
 | Apr 13 | Mon | **Eskay** |
-| Apr 14 | Tue | Pound |
-| Apr 15 | Wed | **Pound** |
+| Apr 14 | Tue | Ize *(cover for Pound)* |
+| Apr 15 | Wed | **Nun** *(cover for Pound)* |
 | Apr 16 | Thu | Nun |
 | Apr 17 | Fri | Eskay |
 | Apr 18 | Sat | Ize |
