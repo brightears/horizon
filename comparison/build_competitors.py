@@ -93,7 +93,7 @@ def doc(*, logo_html, company, addr_lines, accent, date_lines, project, rows, su
 </div></body></html>'''
 
 # ---- Competitor 1: DJ Pound Entertainment (purple) ----
-sub1=Decimal("20000"); vat1=q(sub1*Decimal("0.07")); tot1=sub1+vat1
+sub1=Decimal("25000"); vat1=q(sub1*Decimal("0.07")); tot1=sub1+vat1
 djp=doc(
   logo_html='',
   company="DJ Pound Entertainment",
@@ -101,14 +101,14 @@ djp=doc(
   accent="#b45dc9",
   date_lines=["Date: 15/07/2026"],
   project="DJ Proposal NYE 2026 - SHORE",
-  rows=[("DJ Entertainment","Dec 31<sup>st</sup> 2026","4","20000".replace('','') and 20000)],
+  rows=[("DJ Entertainment","Dec 31<sup>st</sup> 2026","4",20000),("Equipment &mdash; DJ Mixer","Dec 31<sup>st</sup> 2026","&ndash;",5000)],
   sub=sub1, vat=vat1, total=tot1,
   sig_name="Ittiwat Thongsuk", sig_title="Head DJ",
   pay="Payments shall be made at the evening of the event.")
 open(f"{OUT}/QT-DJPound-NYE-2026.html","w").write(djp)
 
 # ---- Competitor 2: BMAsia (Thailand) Co., Ltd. (orange) ----
-sub2=Decimal("25000"); vat2=q(sub2*Decimal("0.07")); tot2=sub2+vat2
+sub2=Decimal("30000"); vat2=q(sub2*Decimal("0.07")); tot2=sub2+vat2
 bm_logo='<div class="logo-wm"><span style="color:#f0902f">bm</span><span style="color:#6a6a6a">asia</span></div>'
 bma=doc(
   logo_html=bm_logo,
@@ -117,7 +117,7 @@ bma=doc(
   accent="#f0902f",
   date_lines=["Date: 16/07/2026","Valid Until: 15/08/2026","Tax No.: 0105548025073"],
   project="DJ Entertainment for NYE 2026 - SHORE",
-  rows=[("DJ Entertainment","Dec 31<sup>st</sup> 2026","5",25000)],
+  rows=[("DJ Entertainment","Dec 31<sup>st</sup> 2026","5",25000),("Equipment &mdash; DJ Mixer","Dec 31<sup>st</sup> 2026","&ndash;",5000)],
   sub=sub2, vat=vat2, total=tot2,
   sig_name="Chris Andrews", sig_title="Director",
   pay="All payments shall be made prior to the event.")
