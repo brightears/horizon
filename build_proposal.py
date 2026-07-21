@@ -84,7 +84,7 @@ HTML=f"""<!DOCTYPE html><html><head><meta charset="utf-8"><style>{CSS}</style></
   <div class="section">
     <h3>Performance Details</h3>
     <div class="grid">
-      <div class="k">Duration</div><div class="v">8.00 PM &ndash; 12.00 AM (4 hours)</div>
+      <div class="k">Duration</div><div class="v">6.30 PM &ndash; 10.30 PM (4 hours)</div>
       <div class="k">Artists</div><div class="v">2 to 3 local DJs</div>
       <div class="k">Theme</div><div class="v">Customizable as per your preference</div>
     </div>
@@ -92,9 +92,9 @@ HTML=f"""<!DOCTYPE html><html><head><meta charset="utf-8"><style>{CSS}</style></
 
   <div class="section">
     <h3>Music Programme</h3>
-    <div class="theme-row"><div class="t">Background Music<span>5 PM &ndash; 8 PM</span></div><div class="d">Relaxed sunset ambiance · house remixes, fresh yet familiar</div></div>
-    <div class="theme-row"><div class="t">Early DJ Set<span>8 PM &ndash; 9 PM</span></div><div class="d">A smooth transition into a vibrant evening</div></div>
-    <div class="theme-row"><div class="t">Main DJ Set<span>9 PM onwards</span></div><div class="d">Lively night grooves · nu disco &amp; indie dance, dynamic</div></div>
+    <div class="theme-row"><div class="t">Background Music<span>5 PM &ndash; 6.30 PM</span></div><div class="d">Relaxed sunset ambiance · house remixes, fresh yet familiar</div></div>
+    <div class="theme-row"><div class="t">Early DJ Set<span>6.30 PM &ndash; 7.30 PM</span></div><div class="d">A smooth transition into a vibrant evening</div></div>
+    <div class="theme-row"><div class="t">Main DJ Set<span>7.30 PM onwards</span></div><div class="d">Lively night grooves · nu disco &amp; indie dance, dynamic</div></div>
   </div>
 
   <div class="section">
