@@ -1,0 +1,72 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><style>
+@page{ size:A4; margin:0; }
+*{ margin:0; padding:0; box-sizing:border-box; }
+body{ font-family:Georgia,'Times New Roman',serif; color:#222; font-size:12px; }
+.page{ width:210mm; min-height:297mm; background:#fff; display:flex; flex-direction:column; }
+.hdr{ position:relative; background:#e7e7e7; height:132mm/1.6; padding:16mm 16mm 0; min-height:96mm; }
+.hdr{ min-height:0; height:auto; padding:16mm 16mm 14mm; }
+.logo-wm{ font-family:'Trebuchet MS',Arial,sans-serif; font-size:34px; font-weight:700; letter-spacing:-1px; }
+.company{ font-size:17px; font-weight:400; margin-top:6px; }
+.addr{ color:#666; font-size:12.5px; line-height:1.55; margin-top:8px; }
+.brushwrap{ position:absolute; top:12mm; right:12mm; width:300px; height:118px; }
+.brush{ position:absolute; inset:0; width:100%; height:100%; }
+.qtitle{ position:absolute; top:22px; right:24px; text-align:right; }
+.qtitle .t{ font-family:'Trebuchet MS',Arial,sans-serif; font-size:26px; font-weight:700; color:#3a3a3a; }
+.qtitle .d{ font-size:12px; color:#4a4a4a; line-height:1.55; margin-top:6px; }
+.body{ padding:14mm 16mm 0; flex:1; }
+.two{ display:flex; gap:40px; }
+.two .lbl{ font-family:'Trebuchet MS',Arial,sans-serif; font-weight:700; font-size:13px; margin-bottom:7px; }
+.two p{ line-height:1.5; }
+.tbl{ width:100%; border-collapse:collapse; margin-top:26px; }
+.tbl th{ font-family:'Trebuchet MS',Arial,sans-serif; font-size:13px; font-weight:700; text-align:left; padding:6px 4px; border-bottom:2px solid #f0902f; }
+.tbl th.c{ text-align:center; } .tbl th.r{ text-align:right; }
+.tbl .top td{ border-top:2px solid #f0902f; }
+.tbl td{ padding:14px 4px; font-size:13px; }
+.tbl td.c{ text-align:center; } .tbl td.r{ text-align:right; }
+.tbl .lastrow td{ border-bottom:1px solid #ccc; }
+.totals{ text-align:right; margin-top:26px; }
+.totals .st{ font-family:'Trebuchet MS',Arial,sans-serif; font-weight:700; font-size:14px; margin-bottom:8px; }
+.totals .grand{ font-family:'Trebuchet MS',Arial,sans-serif; font-weight:700; font-size:24px; margin-top:16px; }
+.sigwrap{ margin-top:40px; }
+.sig{ font-family:'Segoe Script','Brush Script MT',cursive; font-size:30px; color:#222; padding-left:8px; }
+.sigline{ border-bottom:1px solid #f0902f; width:270px; margin-top:-6px; }
+.signame{ font-size:12.5px; margin-top:6px; }
+.pay{ text-align:center; font-family:'Trebuchet MS',Arial,sans-serif; font-weight:700; font-size:12.5px; padding:16mm 0 12mm; }
+</style></head><body><div class="page">
+  <div class="hdr">
+    <div class="logo-wm"><span style="color:#f0902f">bm</span><span style="color:#6a6a6a">asia</span></div>
+    <div class="company">BMAsia (Thailand) Co., Ltd. (Head Office)</div>
+    <div class="addr">725 Metropolis Building, Suite 144,<br>Level 20, Sukhumvit Road, Klongtan Nuea<br>Watthana, Bangkok 10110 Thailand</div>
+    <div class="brushwrap"><svg class="brush" viewBox="0 0 420 150" xmlns="http://www.w3.org/2000/svg">
+      <path d="M18,78 C70,40 150,34 235,54 C300,69 360,50 402,72 C372,104 300,112 210,96 C150,86 70,104 18,78 Z" fill="#f0902f"/>
+      <path d="M40,112 C90,100 150,108 210,102 C160,124 90,128 44,120 Z" fill="#f0902f" opacity="0.9"/>
+      <circle cx="14" cy="66" r="5" fill="#f0902f"/>
+      <circle cx="30" cy="126" r="3.5" fill="#f0902f"/>
+      <circle cx="235" cy="120" r="3" fill="#f0902f" opacity="0.85"/>
+      <ellipse cx="392" cy="90" rx="9" ry="4" fill="#f0902f" opacity="0.8" transform="rotate(18 392 90)"/>
+    </svg>
+      <div class="qtitle"><div class="t">DJ QUOTATION</div><div class="d"><div>Date: 16/07/2026</div><div>Valid Until: 15/08/2026</div><div>Tax No.: 0105548025073</div></div></div>
+    </div>
+  </div>
+  <div class="body">
+    <div class="two">
+      <div style="flex:1"><div class="lbl">CUSTOMER</div>
+        <p>Khun Jittima Ruttitham<br>Purchasing Manager | Finance<br>Hilton Pattaya</p></div>
+      <div style="flex:1"><div class="lbl">PROJECT DESCRIPTION:</div><p>DJ Entertainment for NYE 2026 - SHORE</p></div>
+    </div>
+    <table class="tbl">
+      <tr><th>DESCRIPTION</th><th class="c">Date</th><th class="c">Hours</th><th class="r">PRICE</th></tr>
+      <tr class="top lastrow"><td>DJ Entertainment</td><td class="c">Dec 31<sup>st</sup> 2026</td><td class="c">5</td><td class="r">THB 25,000</td></tr>
+    </table>
+    <div class="totals">
+      <div class="st">SUBTOTAL: THB 25,000</div>
+      <div class="st">VAT (7%): THB 1,750</div>
+      <div class="grand">TOTAL: THB 26,750</div>
+    </div>
+    <div class="sigwrap">
+      <div class="sig">Chris Andrews</div><div class="sigline"></div>
+      <div class="signame">Name: Chris Andrews<br>Title: Director</div>
+    </div>
+  </div>
+  <div class="pay">Payment Terms: All payments shall be made prior to the event.</div>
+</div></body></html>
