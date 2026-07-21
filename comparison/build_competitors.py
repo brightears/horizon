@@ -85,7 +85,7 @@ def doc(*, logo_html, company, addr_lines, accent, date_lines, project, rows, su
       <div class="grand">TOTAL: THB {m0(total)}</div>
     </div>
     <div class="sigwrap">
-      <div class="sig">{sig_name}</div><div class="sigline"></div>
+      <div class="sig">&nbsp;</div><div class="sigline"></div>
       <div class="signame">Name: {sig_name}<br>Title: {sig_title}</div>
     </div>
   </div>
